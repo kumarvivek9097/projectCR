@@ -19,6 +19,9 @@
 .crnavul{
     color: #fff;
 }
+.crnavul>li>a{
+    color: #fff;
+}
 .crnav div div ul
 {
     color: black;
