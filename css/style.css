@@ -72,11 +72,13 @@
 
 }
 }
-@media screen and (max-width:380px)
+@media screen and (max-width:382px)
 {
     .brand-head
     {
         font-size: 14px;
     }
- 
+ .navbar-brand{
+    font-size: 16px;
+ }
 }
